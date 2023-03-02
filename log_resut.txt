@@ -1,0 +1,19 @@
+<info> app_timer: RTC: initialized.
+<info> app: Fast advertising.
+====================
+Coding round - Task2
+====================
+
+<info> app: --> Event received: erased 1 page from address 0x7F000.
+Buffer size in Bytes: 512
+<info> app: --> Event received: wrote 512 bytes at address 0x7F000.
+Buffer size in Bytes: 512
+<info> app: --> Event received: wrote 512 bytes at address 0x7F200.
+Buffer size in Bytes: 512
+<info> app: --> Event received: wrote 512 bytes at address 0x7F400.
+<info> app: addess read: 07F400
+<info> app: addess read: 07F200
+<info> app: addess read: 07F000
+<info> app: RESULT: OK!
+<info> app: RESULT: OK!
+<info> app: RESULT: OK!
